@@ -1,0 +1,27 @@
+{
+    "billing_id": "ce2b2207",
+    "table": "Table 3",
+    "timestamp": "2025-08-13T10:59:11.320687",
+    "items": {
+        "Veg Biryani": {
+            "qty": 67,
+            "price": 140
+        },
+        "Manchurian": {
+            "qty": 2,
+            "price": 130
+        },
+        "Gulab Jamun": {
+            "qty": 1,
+            "price": 45
+        }
+    },
+    "subtotal": 9685,
+    "gst": 484.25,
+    "discount": 0,
+    "final_total": 10169.25,
+    "tip": 508.46250000000003,
+    "grand_total": 10677.7125,
+    "payment": "Cash",
+    "bill_id": "ce2b2207"
+}

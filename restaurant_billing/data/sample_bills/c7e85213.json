@@ -1,0 +1,27 @@
+{
+    "billing_id": "c7e85213",
+    "table": "Table 1",
+    "timestamp": "2025-08-15T19:47:42.732652",
+    "items": {
+        "Paneer Tikka": {
+            "qty": 1,
+            "price": 180
+        },
+        "Masala Dosa": {
+            "qty": 2,
+            "price": 90
+        },
+        "Gulab Jamun": {
+            "qty": 1,
+            "price": 45
+        }
+    },
+    "subtotal": 405,
+    "gst": 20.25,
+    "discount": 0,
+    "final_total": 425.25,
+    "tip": 0.0,
+    "grand_total": 425.25,
+    "payment": "Cash",
+    "bill_id": "c7e85213"
+}
